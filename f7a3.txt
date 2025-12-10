@@ -1,12 +1,12 @@
-# Schwab Portfolio (Sanitized) - 2025-12-10 14:30
+# Portfolio Summary - 2025-12-10 15:25
 
-Source = 2025-12-10 14:30:11
+Source = 2025-12-10 15:25:43
 Positions (non-cash) = 22
 
 ## Performance Summary
 
-**Best:** RKLB +32.5%
-**Worst:** MP -36.3%
+**Best:** RKLB +32.7%
+**Worst:** MP -36.0%
 **Last Trade:** 2025-12-10 (0 days ago)
 **Most Active:** SCHX (11 trades in 30 days)
 **Portfolio Beta:** 1.36
@@ -21,8 +21,8 @@ Positions (non-cash) = 22
 | AMZN | 5.5% |
 | SCHX | 5.3% |
 | IEMG | 5.1% |
-| BSV | 4.9% |
 | SOXX | 4.9% |
+| BSV | 4.9% |
 | SCHZ | 4.1% |
 | MU | 4.0% |
 | PRU | 3.9% |
@@ -37,42 +37,42 @@ Positions (non-cash) = 22
 | PATH | 0.8% |
 | VRT | 0.5% |
 | CDE | 0.2% |
-| SWVXX/Cash | 11.2% |
+| SWVXX/Cash | 11.1% |
 
 ## Position Performance
 | Symbol | Gain/Loss | Holding | Proximity | Flags |
 |--------|-----------|---------|-----------|-------|
-| VTI | +3.2% | Short-term | Near high (95%+) | OVER |
-| SCHF | +5.6% | Short-term | Near high (95%+) | OVER |
-| VYM | +9.0% | Short-term | Near high (95%+) |  |
-| AMZN | +2.6% | Short-term |  |  |
-| SCHX | +0.2% | Short-term | Near high (95%+) |  |
-| IEMG | +1.2% | Short-term |  |  |
+| VTI | +3.9% | Short-term | Near high (95%+) | OVER |
+| SCHF | +6.3% | Short-term | Near high (95%+) | OVER |
+| VYM | +9.7% | Short-term | Near high (95%+) |  |
+| AMZN | +3.2% | Short-term |  |  |
+| SCHX | +0.8% | Short-term | Near high (95%+) |  |
+| IEMG | +1.9% | Short-term |  |  |
+| SOXX | +16.4% | Long-term | Near high (95%+) |  |
 | BSV | +0.4% | Long-term |  |  |
-| SOXX | +15.2% | Long-term | Near high (95%+) |  |
-| SCHZ | -0.6% | Short-term |  | WASH until 2025-12-13 |
-| MU | +8.8% | Short-term | Near high (95%+) |  |
-| PRU | +18.9% | Long-term |  |  |
-| XLV | +14.4% | Long-term |  |  |
-| SCHA | +4.8% | Short-term | Near high (95%+) |  |
-| CRWD | +16.3% | Long-term |  |  |
-| META | -3.4% | Short-term |  | WASH until 2026-01-08 |
-| MP | -36.3% | Long-term |  | TLH |
-| XBI | +5.9% | Short-term |  |  |
-| SCHD | +2.0% | Long-term |  |  |
-| RKLB | +32.5% | Long-term |  |  |
+| SCHZ | -0.4% | Short-term |  | WASH until 2025-12-13 |
+| MU | +10.2% | Short-term | Near high (95%+) |  |
+| PRU | +19.9% | Long-term |  |  |
+| XLV | +14.8% | Long-term |  |  |
+| SCHA | +6.0% | Short-term | Near high (95%+) |  |
+| CRWD | +17.6% | Long-term |  |  |
+| META | -3.0% | Short-term |  | WASH until 2026-01-08 |
+| MP | -36.0% | Long-term |  | TLH |
+| XBI | +6.9% | Short-term |  |  |
+| SCHD | +2.6% | Long-term |  |  |
+| RKLB | +32.7% | Long-term |  |  |
 | PATH | +18.2% | Long-term |  |  |
-| VRT | +8.7% | Long-term |  |  |
-| CDE | -14.7% | Long-term |  | TLH |
+| VRT | +9.4% | Long-term |  |  |
+| CDE | -13.2% | Long-term |  | TLH |
 
 ## Sector Allocation
 | Sector | % of Portfolio |
 |--------|----------------|
 | US Broad Market | 17.9% |
-| Technology | 13.5% |
-| Cash/Money Market | 11.2% |
+| Technology | 13.6% |
+| Cash/Money Market | 11.1% |
 | International Developed | 10.6% |
-| Bonds | 9.1% |
+| Bonds | 9.0% |
 | US Dividend | 8.0% |
 | Consumer | 5.5% |
 | US Large Cap | 5.3% |
@@ -107,7 +107,7 @@ Aggressive (stocks, thematic ETFs): 30.0% of equities (target 10.0-20.0%) - HIGH
 | Exposure | Holdings | Combined % |
 |----------|----------|------------|
 | Cloud/AI | CRWD, META, AMZN, PATH | 9.6% |
-| Semiconductors | SOXX, MU | 8.9% |
+| Semiconductors | SOXX, MU | 9.0% |
 
 ## Position Limit Warnings
 
@@ -124,7 +124,7 @@ No sectors at or near limit.
 | Ticker | Current % | Target % | Action |
 |--------|-----------|----------|--------|
 | VTI | 17.9% | 10.0% | Reduce by 7.9% |
-| SWVXX | 11.2% | 8.0% | Deploy 3.2% |
+| SWVXX | 11.1% | 8.0% | Deploy 3.1% |
 | SCHD | 1.0% | 3.0% | Add 2.0% |
 | SCHZ | 4.1% | 5.0% | Add 0.9% |
 | SCHF | 10.6% | 10.0% | Reduce by 0.6% |
@@ -186,6 +186,6 @@ No tickers on wash sale blacklist.
 ## Open Orders
 No open orders
 
-**Cash Position:** 11.2% (target 5.0-8.0%) - HIGH
+**Cash Position:** 11.1% (target 5.0-8.0%) - HIGH
 
 *Flag Legend: VIOL = Wash Sale Violation, TLH = Tax Loss Harvest (loss ≥10%), WASH = Wash Sale Risk (until date), OVER = Over 10% Limit*
