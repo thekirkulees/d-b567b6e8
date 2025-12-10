@@ -1,0 +1,191 @@
+# Schwab Portfolio (Sanitized) - 2025-12-10 14:30
+
+Source = 2025-12-10 14:30:11
+Positions (non-cash) = 22
+
+## Performance Summary
+
+**Best:** RKLB +32.5%
+**Worst:** MP -36.3%
+**Last Trade:** 2025-12-10 (0 days ago)
+**Most Active:** SCHX (11 trades in 30 days)
+**Portfolio Beta:** 1.36
+**Portfolio Yield:** 6.48%
+
+## Position Allocation
+| Symbol | % of Account |
+|--------|--------------|
+| VTI | 17.9% |
+| SCHF | 10.6% |
+| VYM | 7.0% |
+| AMZN | 5.5% |
+| SCHX | 5.3% |
+| IEMG | 5.1% |
+| BSV | 4.9% |
+| SOXX | 4.9% |
+| SCHZ | 4.1% |
+| MU | 4.0% |
+| PRU | 3.9% |
+| XLV | 3.1% |
+| SCHA | 3.1% |
+| CRWD | 1.7% |
+| META | 1.5% |
+| MP | 1.4% |
+| XBI | 1.1% |
+| SCHD | 1.0% |
+| RKLB | 0.9% |
+| PATH | 0.8% |
+| VRT | 0.5% |
+| CDE | 0.2% |
+| SWVXX/Cash | 11.2% |
+
+## Position Performance
+| Symbol | Gain/Loss | Holding | Proximity | Flags |
+|--------|-----------|---------|-----------|-------|
+| VTI | +3.2% | Short-term | Near high (95%+) | OVER |
+| SCHF | +5.6% | Short-term | Near high (95%+) | OVER |
+| VYM | +9.0% | Short-term | Near high (95%+) |  |
+| AMZN | +2.6% | Short-term |  |  |
+| SCHX | +0.2% | Short-term | Near high (95%+) |  |
+| IEMG | +1.2% | Short-term |  |  |
+| BSV | +0.4% | Long-term |  |  |
+| SOXX | +15.2% | Long-term | Near high (95%+) |  |
+| SCHZ | -0.6% | Short-term |  | WASH until 2025-12-13 |
+| MU | +8.8% | Short-term | Near high (95%+) |  |
+| PRU | +18.9% | Long-term |  |  |
+| XLV | +14.4% | Long-term |  |  |
+| SCHA | +4.8% | Short-term | Near high (95%+) |  |
+| CRWD | +16.3% | Long-term |  |  |
+| META | -3.4% | Short-term |  | WASH until 2026-01-08 |
+| MP | -36.3% | Long-term |  | TLH |
+| XBI | +5.9% | Short-term |  |  |
+| SCHD | +2.0% | Long-term |  |  |
+| RKLB | +32.5% | Long-term |  |  |
+| PATH | +18.2% | Long-term |  |  |
+| VRT | +8.7% | Long-term |  |  |
+| CDE | -14.7% | Long-term |  | TLH |
+
+## Sector Allocation
+| Sector | % of Portfolio |
+|--------|----------------|
+| US Broad Market | 17.9% |
+| Technology | 13.5% |
+| Cash/Money Market | 11.2% |
+| International Developed | 10.6% |
+| Bonds | 9.1% |
+| US Dividend | 8.0% |
+| Consumer | 5.5% |
+| US Large Cap | 5.3% |
+| Emerging Markets | 5.1% |
+| Healthcare | 4.2% |
+| Financials | 3.9% |
+| US Small Cap | 3.1% |
+| Materials | 1.6% |
+| Industrials | 0.9% |
+
+## Top 5 Concentration
+
+| Symbol | Allocation |
+|--------|------------|
+| VTI | 17.9% |
+| SCHF | 10.6% |
+| VYM | 7.0% |
+| AMZN | 5.5% |
+| SCHX | 5.3% |
+| **Total** | **46.4%** (OK, limit 50.0%) |
+
+## International Allocation
+International exposure: 17.7% of equity
+Holdings: SCHF (10.6%), IEMG (5.1%)
+
+## Sleeve Allocation
+Core (broad ETFs, bonds, dividends): 70.0% of equities (min 60.0%) - OK
+Aggressive (stocks, thematic ETFs): 30.0% of equities (target 10.0-20.0%) - HIGH
+
+## Sector Overlap Warnings
+
+| Exposure | Holdings | Combined % |
+|----------|----------|------------|
+| Cloud/AI | CRWD, META, AMZN, PATH | 9.6% |
+| Semiconductors | SOXX, MU | 8.9% |
+
+## Position Limit Warnings
+
+| Ticker | Current % | Headroom | Status |
+|--------|-----------|----------|--------|
+| VTI | 17.9% | -7.9% | DO NOT ADD |
+| SCHF | 10.6% | -0.6% | DO NOT ADD |
+
+## Sector Limit Warnings
+No sectors at or near limit.
+
+## Rebalance Actions
+
+| Ticker | Current % | Target % | Action |
+|--------|-----------|----------|--------|
+| VTI | 17.9% | 10.0% | Reduce by 7.9% |
+| SWVXX | 11.2% | 8.0% | Deploy 3.2% |
+| SCHD | 1.0% | 3.0% | Add 2.0% |
+| SCHZ | 4.1% | 5.0% | Add 0.9% |
+| SCHF | 10.6% | 10.0% | Reduce by 0.6% |
+
+## Long-Term Conversion Watch
+No positions approaching long-term status.
+
+## Lots Approaching Long-Term
+No lots approaching long-term status in next 30 days.
+
+## Upcoming Dividends (Next 30 Days)
+
+| Symbol | Ex-Date | Yield |
+|--------|---------|-------|
+| META | 2025-12-14 | N/A |
+
+*Do not sell before ex-date to capture dividend*
+
+## Earnings Next 14 Days
+No earnings reports in the next 14 days.
+
+## Wash Sale Blacklist
+No tickers on wash sale blacklist.
+
+## Recent Trades (Last 30 Days)
+| Date | Symbol | Action |
+|------|--------|--------|
+| 2025-12-08 | VTI | BUY |
+| 2025-12-08 | META | BUY |
+| 2025-12-08 | MU | BUY |
+| 2025-12-08 | MU | BUY |
+| 2025-12-08 | AMZN | BUY |
+| 2025-12-08 | PATH | SELL |
+| 2025-11-17 | XBI | BUY |
+| 2025-11-17 | IEMG | BUY |
+| 2025-11-17 | VYM | BUY |
+| 2025-11-17 | SCHF | BUY |
+| 2025-11-17 | SCHF | BUY |
+| 2025-11-17 | SCHX | BUY |
+| 2025-11-17 | SCHX | BUY |
+| 2025-11-17 | SCHX | BUY |
+| 2025-11-17 | SCHA | BUY |
+| 2025-11-17 | SCHA | BUY |
+| 2025-11-12 | SCHX | BUY |
+| 2025-11-12 | SCHZ | BUY |
+| 2025-11-12 | SCHX | BUY |
+| 2025-11-12 | SCHX | BUY |
+| 2025-11-12 | SCHZ | BUY |
+| 2025-11-12 | SCHX | BUY |
+| 2025-11-12 | SCHA | BUY |
+| 2025-11-12 | SCHA | BUY |
+| 2025-11-12 | SCHF | BUY |
+| 2025-11-12 | SCHX | BUY |
+| 2025-11-12 | SCHX | BUY |
+| 2025-11-12 | SCHX | BUY |
+| 2025-11-12 | SCHA | BUY |
+| 2025-11-12 | SCHX | BUY |
+
+## Open Orders
+No open orders
+
+**Cash Position:** 11.2% (target 5.0-8.0%) - HIGH
+
+*Flag Legend: VIOL = Wash Sale Violation, TLH = Tax Loss Harvest (loss ≥10%), WASH = Wash Sale Risk (until date), OVER = Over 10% Limit*
